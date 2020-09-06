@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/datadrive/workspace/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/datadrive/workspace/catkin_ws/src/eigen_checks/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/loco_planner/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/mav_local_planner/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_comm/mav_msgs/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/mav_path_smoothing/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/mav_planning_benchmark/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/mav_planning_common/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_comm/mav_planning_msgs/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/mav_planning_rviz/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_trajectory_generation/mav_trajectory_generation/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_trajectory_generation/mav_trajectory_generation_example/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_trajectory_generation/mav_trajectory_generation_ros/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_trajectory_generation/mav_visualization/include/**",
+                "/datadrive/workspace/catkin_ws/src/minkindr/minkindr/include/**",
+                "/datadrive/workspace/catkin_ws/src/minkindr_ros/minkindr_conversions/include/**",
+                "/datadrive/workspace/catkin_ws/src/numpy_eigen/include/**",
+                "/datadrive/workspace/catkin_ws/src/rqt_image_view/include/**",
+                "/datadrive/workspace/catkin_ws/src/voxblox/voxblox/include/**",
+                "/datadrive/workspace/catkin_ws/src/voxblox_ground_truth/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/voxblox_loco_planner/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/voxblox_planning_common/include/**",
+                "/datadrive/workspace/catkin_ws/src/voxblox/voxblox_ros/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/voxblox_rrt_planner/include/**",
+                "/datadrive/workspace/catkin_ws/src/voxblox/voxblox_rviz_plugin/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/voxblox_skeleton/include/**",
+                "/datadrive/workspace/catkin_ws/src/mav_voxblox_planning/voxblox_skeleton_planner/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
